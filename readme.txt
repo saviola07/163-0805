@@ -1,2 +1,3 @@
 This is my first commit
  I have writed some new words.
+ wo dui zhe ge ji xu jin xing xiu gai.
