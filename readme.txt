@@ -7,3 +7,5 @@ This is my first commit
  this is a problem
  
  push to github
+ 
+ Creating a new branch is quick
