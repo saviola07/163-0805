@@ -6,7 +6,7 @@ This is my first commit
  
  this is a problem
  
- push to github
+ push to the github
  
 
  
