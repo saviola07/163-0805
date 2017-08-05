@@ -9,3 +9,5 @@ This is my first commit
  push to github
  
  Creating a new branch is quick
+ 
+ Creating a new branch is quick AND simple.
